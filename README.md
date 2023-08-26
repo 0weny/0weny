@@ -5,6 +5,9 @@
 
 ### 🙈 I am interested in Java, Android, C/C++!
 
+
+# 📫 https://velog.io/@0weny
+
 <!--
 **0weny/0weny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
