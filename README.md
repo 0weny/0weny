@@ -7,6 +7,8 @@
 
 **Blog**
 📫 https://velog.io/@0weny
+
+
 **Notion**
 https://www.notion.so/ee4de863083e4367a377bb1c1e4e0147?pvs=4
 
