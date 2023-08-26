@@ -15,7 +15,7 @@ https://www.notion.so/ee4de863083e4367a377bb1c1e4e0147?pvs=4
 **✨ Project List ✨**
 
 **2023**
-* **We Meet Here** - 2023 성신여자대학교 소프트웨어 교내 경진 대회 
+* **We Meet Here** - 빠른 일정 조율 서비스 [2023 성신여자대학교 소프트웨어 교내 경진 대회] 
 
 
 
