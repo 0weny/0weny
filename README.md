@@ -6,24 +6,21 @@
 
 ### 🏢 무신사 (Musinsa)  
 **Data Operation Team | Data Ops**  
-📆 2025.01 – Present
+📆 2026.01 – Present
 
 </div>
 
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0weny&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0weny&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 🐨 Git Animals
 
 
-
-## 🐾 GitAnimals
-
-<p align="center">
-  <img src="https://gitanimals.org/api/v1/gitanimals/0weny" width="250"/>
-</p>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=0weny&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/0weny?pet-id=793496405261500441"
+    width="600"
+    height="300"
+  />
+</a>
+  
